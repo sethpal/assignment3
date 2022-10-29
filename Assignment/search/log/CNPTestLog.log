@@ -1,0 +1,579 @@
+2022-10-29 01:05:00,460 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:05:00,462 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:05:00,462 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:05:04,492 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (9e2daaa66f7389c6b0e329e9858ea79f)
+2022-10-29 01:05:04,492 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:05:04,498 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:05:06,566 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:05:06,566 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:05:06,566 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:05:06,566 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:05:06,566 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:05:06,580 [main] INFO testbase.TestBase - Browser is not open
+2022-10-29 01:05:06,590 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:05:06,591 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:05:06,591 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:05:06,591 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:05:06,647 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:08:30,983 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:08:30,985 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:08:30,985 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:08:32,183 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (f0317e417121ea6736d8eb1172007a83)
+2022-10-29 01:08:32,183 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:08:32,190 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:08:34,170 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:08:34,171 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:08:34,171 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:08:34,171 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:08:34,171 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:08:34,185 [main] INFO testbase.TestBase - Browser is not open
+2022-10-29 01:08:34,186 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:08:34,186 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:08:34,186 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:08:34,186 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:08:34,242 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:12:26,796 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:12:26,797 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:12:26,798 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:12:26,890 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:12:26,897 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:12:27,882 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (1d0033e4784c673a54d1742861e724c9)
+2022-10-29 01:12:27,882 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:12:27,889 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:12:29,955 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:12:29,955 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:12:29,955 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:12:29,955 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:12:29,955 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:12:29,969 [main] INFO testbase.TestBase - Browser is not open
+2022-10-29 01:12:29,970 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:12:29,970 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:12:29,971 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:12:29,971 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:12:30,023 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:22:44,003 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:22:44,006 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:22:44,006 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:22:44,103 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:22:44,110 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:22:45,206 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (78defbfe6110f00d5e641f960e01e1e2)
+2022-10-29 01:22:45,208 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:22:45,219 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:23:51,242 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:23:51,243 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:23:51,244 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:23:51,337 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:23:51,343 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:23:52,318 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (7041eef79386efb7d235a2889d1dc04f)
+2022-10-29 01:23:52,318 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:23:52,324 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:23:55,005 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:23:55,005 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:23:55,005 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:23:55,005 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:23:55,005 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:23:55,112 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:23:55,113 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:23:55,113 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:23:55,113 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:23:55,114 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:23:55,177 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:25:03,378 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:25:03,380 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:25:03,380 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:25:03,473 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:25:03,481 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:25:04,504 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (92be296b1bc668825eb65be7b0bad287)
+2022-10-29 01:25:04,505 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:25:04,512 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:25:07,081 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:25:07,081 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:25:07,081 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:25:07,081 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:25:07,081 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:25:07,188 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:25:07,189 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:25:07,189 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:25:07,189 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:25:07,190 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:25:07,246 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:25:27,678 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:25:27,680 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:25:27,680 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:25:27,773 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:25:27,779 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:25:28,730 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (cdf731c284b3071d0f1446c1be3c00b5)
+2022-10-29 01:25:28,731 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:25:28,738 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:26:02,388 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:02,388 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:26:02,389 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:02,389 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:26:02,389 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:26:02,497 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:26:02,498 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:02,498 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:26:02,499 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:02,499 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:26:02,555 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:26:37,778 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:37,780 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:26:37,780 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:37,875 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:26:37,881 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:26:38,866 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (72c65b28377c99fe789f668fc50da03e)
+2022-10-29 01:26:38,867 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:26:38,872 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:26:50,782 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:50,782 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:26:50,782 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:50,782 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:26:50,782 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:26:50,889 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:26:50,889 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:50,890 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:26:50,890 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:26:50,890 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:26:50,974 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:27:18,761 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:18,762 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:27:18,762 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:18,853 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:27:18,859 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:27:19,814 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (5b0d05dcac95fe6510cb80a5dbfbd2c9)
+2022-10-29 01:27:19,814 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:27:19,820 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:27:32,684 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:32,684 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:27:32,685 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:32,685 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:27:32,685 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:27:32,801 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:27:32,802 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:32,802 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:27:32,802 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:32,802 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:27:32,854 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:27:52,253 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:52,255 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:27:52,255 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:52,350 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:27:52,356 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:27:53,357 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (9481d8351fca3b6129ce414701ab6375)
+2022-10-29 01:27:53,358 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:27:53,364 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:27:56,302 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:56,302 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:27:56,303 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:56,303 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:27:56,303 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:27:56,412 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:27:56,413 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:56,413 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:27:56,413 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:27:56,413 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:27:56,469 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:37:28,351 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:37:28,352 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:37:28,353 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:37:28,443 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:37:28,450 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:37:29,534 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (a4b517ba7d2d5bd5fb8b8007364bf0db)
+2022-10-29 01:37:29,534 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:37:29,540 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:37:37,974 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:37:37,974 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:37:37,974 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:37:37,975 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:37:37,975 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:37:38,092 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:37:38,093 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:37:38,093 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:37:38,093 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:37:38,093 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:37:38,149 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:39:25,330 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:39:25,332 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:39:25,332 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:39:25,425 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:39:25,431 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:39:26,478 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (8392d2fcfe9dea3441860ff9f9ba44bc)
+2022-10-29 01:39:26,478 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:39:26,484 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:39:35,913 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:39:35,913 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:39:35,914 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:39:35,914 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:39:35,914 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:39:36,037 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:39:36,038 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:39:36,038 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:39:36,039 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:39:36,039 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:39:36,095 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:49:52,384 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:49:52,386 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:49:52,386 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:49:52,549 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:49:52,556 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:49:53,644 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (ba8cef445befbabc20c3a820de1f6231)
+2022-10-29 01:49:53,644 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:49:53,651 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:50:03,717 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:50:03,718 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:50:03,718 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:50:03,718 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:50:03,718 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:50:03,834 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:50:03,835 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:50:03,835 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:50:03,836 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:50:03,836 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:50:03,892 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:52:10,142 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:10,143 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:52:10,143 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:10,308 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:52:10,315 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:52:11,404 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (2075396740c2991caedf8181f0484473)
+2022-10-29 01:52:11,405 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:52:11,410 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:52:20,621 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:20,622 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:52:20,622 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:20,622 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:52:20,622 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:52:20,734 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:52:20,735 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:20,735 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:52:20,735 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:20,735 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:52:20,810 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:52:20,818 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:20,819 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:52:20,819 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:20,824 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:52:20,825 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:52:21,412 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (b2ebc699071842156bb54b218d3814d4)
+2022-10-29 01:52:21,414 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:52:21,419 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:52:28,655 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:28,655 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:52:28,655 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:28,655 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:52:28,655 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:52:28,762 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:52:28,763 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:28,763 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:52:28,763 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:52:28,763 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:52:28,818 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:54:46,867 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:54:46,869 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:54:46,869 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:54:47,030 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:54:47,037 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:54:48,036 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (0405513335580966f70571d0324f3b13)
+2022-10-29 01:54:48,036 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:54:48,043 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:54:55,916 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:54:55,917 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:54:55,917 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:54:55,917 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:54:55,918 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:54:56,024 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:54:56,024 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:54:56,025 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:54:56,025 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:54:56,025 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:54:56,081 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 01:54:56,091 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:54:56,091 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 01:54:56,091 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:54:56,095 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 01:54:56,096 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 01:54:56,705 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (686d1ce3bc9274d02ed34bf894b0985a)
+2022-10-29 01:54:56,705 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 01:54:56,707 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 01:55:03,772 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:55:03,772 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 01:55:03,772 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:55:03,772 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 01:55:03,772 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 01:55:03,882 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 01:55:03,882 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:55:03,882 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 01:55:03,882 [main] INFO testbase.TestBase - ======================================
+2022-10-29 01:55:03,882 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 01:55:03,938 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 13:44:59,020 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:44:59,022 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 13:44:59,022 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:44:59,573 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 13:44:59,578 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 13:45:00,676 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (bb05dc10c2c5d39aeb5f03b0bff38586)
+2022-10-29 13:45:00,676 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 13:45:00,683 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 13:45:08,684 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:08,685 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 13:45:08,685 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:08,685 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 13:45:08,685 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 13:45:08,796 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 13:45:08,797 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:08,798 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 13:45:08,798 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:08,798 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 13:45:08,861 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 13:45:08,869 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:08,869 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 13:45:08,869 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:08,873 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 13:45:08,874 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 13:45:09,440 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (ea4cfdd33e9fe7c00186c8c613988e01)
+2022-10-29 13:45:09,442 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 13:45:09,443 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 13:45:14,989 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:14,989 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 13:45:14,989 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:14,989 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 13:45:14,989 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 13:45:15,097 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 13:45:15,097 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:15,098 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 13:45:15,098 [main] INFO testbase.TestBase - ======================================
+2022-10-29 13:45:15,098 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 13:45:15,152 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:20:12,754 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:20:12,757 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:20:12,757 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:20:13,168 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:20:13,174 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:20:14,180 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (c592f249a53a7b3928266fb455ac8c73)
+2022-10-29 16:20:14,181 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:20:14,187 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:20:16,581 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:20:16,582 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:20:16,582 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:20:16,582 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:20:16,582 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:20:16,690 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:20:16,691 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:20:16,691 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:20:16,692 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:20:16,692 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:20:16,755 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:22:20,349 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:22:20,351 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:22:20,351 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:22:20,443 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:22:20,449 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:22:21,497 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (bc650d7257f88cfab7733d69e3f3488e)
+2022-10-29 16:22:21,497 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:22:21,504 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:24:11,901 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:11,902 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:24:11,902 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:11,902 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:24:11,902 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:24:12,015 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:24:12,016 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:12,016 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:24:12,017 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:12,017 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:24:12,072 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:24:57,321 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:57,322 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:24:57,322 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:57,412 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:24:57,418 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:24:58,448 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (d9075bc8a416a4f57d7c5cf51cbfcf5b)
+2022-10-29 16:24:58,448 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:24:58,455 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:24:59,414 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:59,414 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:24:59,414 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:59,414 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:24:59,414 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:24:59,521 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:24:59,522 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:59,522 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:24:59,522 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:24:59,522 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:24:59,578 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:25:36,994 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:25:36,995 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:25:36,995 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:25:37,080 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:25:37,085 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:25:38,055 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (fc31ba28509c5b5f039bf787896b6bc1)
+2022-10-29 16:25:38,055 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:25:38,060 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:25:49,139 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:25:49,140 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:25:49,140 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:25:49,230 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:25:49,236 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:25:50,121 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (dc904ff87daab9488aa8a0f69110a761)
+2022-10-29 16:25:50,121 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:25:50,127 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:25:51,077 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:25:51,077 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:25:51,077 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:25:51,077 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:25:51,077 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:25:51,186 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:25:51,187 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:25:51,187 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:25:51,188 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:25:51,188 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:25:51,247 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:35:30,316 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:35:30,318 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:35:30,318 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:35:30,409 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:35:30,415 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:35:31,402 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (3226bccb605a85599c15c593588295e3)
+2022-10-29 16:35:31,403 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:35:31,409 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:35:32,512 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:35:32,512 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:35:32,512 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:35:32,512 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:35:32,513 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:35:32,619 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:35:32,620 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:35:32,620 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:35:32,620 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:35:32,620 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:35:32,675 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:36:14,695 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:36:14,697 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:36:14,697 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:36:14,785 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:36:14,791 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:36:15,846 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (873295853c56439d82b7b83eeefb9104)
+2022-10-29 16:36:15,846 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:36:15,852 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:37:45,670 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:37:45,671 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:37:45,671 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:37:45,761 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:37:45,768 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:37:46,784 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (73ee7396774ea3a526e0c6ac9ec9ceac)
+2022-10-29 16:37:46,785 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:37:46,791 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:37:47,843 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:37:47,843 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:37:47,843 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:37:47,843 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:37:47,843 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:37:47,949 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:37:47,950 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:37:47,950 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:37:47,951 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:37:47,951 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:37:48,005 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:38:03,427 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:38:03,429 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:38:03,429 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:38:03,518 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:38:03,525 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:38:04,365 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (f65f955b9f2a9963ff4a2a200a6ad6cf)
+2022-10-29 16:38:04,366 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:38:04,372 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:39:24,644 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:39:24,646 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:39:24,646 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:39:24,736 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:39:24,743 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:39:25,716 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (e688ee2b2e9d03cc079052cf914c8e0a)
+2022-10-29 16:39:25,717 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:39:25,722 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:39:26,703 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:39:26,703 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:39:26,703 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:39:26,704 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:39:26,704 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:39:26,811 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:39:26,812 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:39:26,812 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:39:26,813 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:39:26,813 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:39:26,867 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:40:11,886 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:11,887 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:40:11,887 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:12,044 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:40:12,050 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:40:13,077 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (ba647a892058d5e91bc185c6ddaa335b)
+2022-10-29 16:40:13,078 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:40:13,084 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:40:21,058 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:21,059 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:40:21,059 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:21,059 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:40:21,059 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:40:21,173 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:40:21,174 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:21,174 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:40:21,175 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:21,175 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:40:21,246 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 16:40:21,255 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:21,255 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 16:40:21,255 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:21,259 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 16:40:21,261 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 16:40:21,865 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (c9d3a5fee0199daa1f4c127eb88aaa21)
+2022-10-29 16:40:21,866 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 16:40:21,867 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 16:40:22,814 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:22,814 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 16:40:22,814 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:22,814 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 16:40:22,814 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 16:40:22,920 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 16:40:22,920 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:22,920 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 16:40:22,921 [main] INFO testbase.TestBase - ======================================
+2022-10-29 16:40:22,921 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 16:40:22,976 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 17:22:24,963 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:24,965 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 17:22:24,965 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:25,453 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 17:22:25,462 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 17:22:26,534 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (5ae000a06b676a6b2e37af593e0fe4ff)
+2022-10-29 17:22:26,534 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 17:22:26,541 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 17:22:34,425 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:34,425 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 17:22:34,425 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:34,425 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 17:22:34,426 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 17:22:34,550 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 17:22:34,551 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:34,551 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 17:22:34,552 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:34,552 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 17:22:34,606 [main] INFO testbase.TestBase - EXECUTION COMPLETED
+2022-10-29 17:22:34,615 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:34,615 [main] INFO testbase.TestBase - BEFORE TEST
+2022-10-29 17:22:34,616 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:34,620 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+2022-10-29 17:22:34,621 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sepal/.cache/selenium/chromedriver/mac-arm64/106.0.5249.61/chromedriver
+2022-10-29 17:22:35,198 [main] INFO testbase.TestBase - driver in base=ChromeDriver: chrome on MAC (e957752d548ae022b4d37f537a15aff8)
+2022-10-29 17:22:35,201 [main] INFO testbase.TestBase - driver creation is success
+2022-10-29 17:22:35,203 [main] INFO testbase.TestBase - Library Initialization
+2022-10-29 17:22:36,286 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:36,286 [main] INFO testbase.TestBase - CLOSING BROWSER
+2022-10-29 17:22:36,286 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:36,286 [main] INFO testbase.TestBase - Library CleanUP started 
+2022-10-29 17:22:36,286 [main] INFO testbase.TestBase - Library CleanUP finished 
+2022-10-29 17:22:36,390 [main] INFO testbase.TestBase - CURRENT BROWSERS IS CLOSED
+2022-10-29 17:22:36,391 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:36,391 [main] INFO testbase.TestBase - AFTER TEST
+2022-10-29 17:22:36,391 [main] INFO testbase.TestBase - ======================================
+2022-10-29 17:22:36,391 [main] INFO testbase.TestBase - Quiting driver
+2022-10-29 17:22:36,446 [main] INFO testbase.TestBase - EXECUTION COMPLETED

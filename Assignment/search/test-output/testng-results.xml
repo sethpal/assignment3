@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-29T11:52:24Z" name="Google Test Suite" finished-at="2022-10-29T11:52:36Z" duration-ms="11495">
+    <groups>
+    </groups>
+    <test started-at="2022-10-29T11:52:24Z" name="UI Test Suite" finished-at="2022-10-29T11:52:34Z" duration-ms="9654">
+      <class name="search.google.ui.Test_Google_Home_Page">
+        <test-method is-config="true" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:24Z" name="beforeTest" finished-at="2022-10-29T11:52:24Z" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@76dc36e5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="init()[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:24Z" name="init" finished-at="2022-10-29T11:52:26Z" duration-ms="1758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:26Z" name="beforeMethod" finished-at="2022-10-29T11:52:27Z" duration-ms="1021" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void search.google.ui.Test_Google_Home_Page.Verify_Google_Logo_IsPresentOnPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Verify_Google_Logo_IsPresentOnPage()[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:27Z" name="Verify_Google_Logo_IsPresentOnPage" finished-at="2022-10-29T11:52:27Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Google_Logo_IsPresentOnPage -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:27Z" name="beforeMethod" finished-at="2022-10-29T11:52:28Z" duration-ms="416" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void search.google.ui.Test_Google_Home_Page.Verify_Search_Box_Is_Present_On_the_Google_Home_Page()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Verify_Search_Box_Is_Present_On_the_Google_Home_Page()[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:28Z" name="Verify_Search_Box_Is_Present_On_the_Google_Home_Page" finished-at="2022-10-29T11:52:28Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Search_Box_Is_Present_On_the_Google_Home_Page -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:28Z" name="beforeMethod" finished-at="2022-10-29T11:52:28Z" duration-ms="292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void search.google.ui.Test_Google_Home_Page.Verify_User_Is_Able_To_Search__Text(java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Verify_User_Is_Able_To_Search__Text(java.lang.String)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:28Z" name="Verify_User_Is_Able_To_Search__Text" data-provider="testdata" finished-at="2022-10-29T11:52:29Z" duration-ms="1362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Awesome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_User_Is_Able_To_Search__Text -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:29Z" name="beforeMethod" finished-at="2022-10-29T11:52:30Z" duration-ms="809" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void search.google.ui.Test_Google_Home_Page.Verify_User_Is_Able_To_Search__Text(java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Verify_User_Is_Able_To_Search__Text(java.lang.String)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:30Z" name="Verify_User_Is_Able_To_Search__Text" data-provider="testdata" finished-at="2022-10-29T11:52:32Z" duration-ms="1406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cricket match schedule]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_User_Is_Able_To_Search__Text -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:32Z" name="beforeMethod" finished-at="2022-10-29T11:52:33Z" duration-ms="1141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void search.google.ui.Test_Google_Home_Page.Verify_User_Is_Able_To_Search__Text(java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Verify_User_Is_Able_To_Search__Text(java.lang.String)[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:33Z" name="Verify_User_Is_Able_To_Search__Text" data-provider="testdata" finished-at="2022-10-29T11:52:34Z" duration-ms="1163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_User_Is_Able_To_Search__Text -->
+        <test-method is-config="true" signature="closeAllBrowser()[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:34Z" name="closeAllBrowser" finished-at="2022-10-29T11:52:34Z" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:search.google.ui.Test_Google_Home_Page@7fb95505]" started-at="2022-10-29T11:52:34Z" name="quitDriver" finished-at="2022-10-29T11:52:34Z" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- search.google.ui.Test_Google_Home_Page -->
+    </test> <!-- UI Test Suite -->
+    <test started-at="2022-10-29T11:52:34Z" name="API Test Suite" finished-at="2022-10-29T11:52:36Z" duration-ms="1833">
+      <class name="search.google.api.Test_Google_Search">
+        <test-method is-config="true" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:search.google.api.Test_Google_Search@52c3cb31]" started-at="2022-10-29T11:52:34Z" name="beforeTest" finished-at="2022-10-29T11:52:34Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@31533eb1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="init()[pri:0, instance:search.google.api.Test_Google_Search@52c3cb31]" started-at="2022-10-29T11:52:34Z" name="init" finished-at="2022-10-29T11:52:35Z" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="Verify_User_Is_Able_To_Search__Text(java.lang.String)[pri:0, instance:search.google.api.Test_Google_Search@52c3cb31]" started-at="2022-10-29T11:52:35Z" name="Verify_User_Is_Able_To_Search__Text" data-provider="testdata" finished-at="2022-10-29T11:52:35Z" duration-ms="658" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Awesome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_User_Is_Able_To_Search__Text -->
+        <test-method signature="Verify_User_Is_Able_To_Search__Text(java.lang.String)[pri:0, instance:search.google.api.Test_Google_Search@52c3cb31]" started-at="2022-10-29T11:52:35Z" name="Verify_User_Is_Able_To_Search__Text" data-provider="testdata" finished-at="2022-10-29T11:52:36Z" duration-ms="216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cricket match schedule]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_User_Is_Able_To_Search__Text -->
+        <test-method signature="Verify_User_Is_Able_To_Search__Text(java.lang.String)[pri:0, instance:search.google.api.Test_Google_Search@52c3cb31]" started-at="2022-10-29T11:52:36Z" name="Verify_User_Is_Able_To_Search__Text" data-provider="testdata" finished-at="2022-10-29T11:52:36Z" duration-ms="199" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_User_Is_Able_To_Search__Text -->
+        <test-method is-config="true" signature="closeAllBrowser()[pri:0, instance:search.google.api.Test_Google_Search@52c3cb31]" started-at="2022-10-29T11:52:36Z" name="closeAllBrowser" finished-at="2022-10-29T11:52:36Z" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:search.google.api.Test_Google_Search@52c3cb31]" started-at="2022-10-29T11:52:36Z" name="quitDriver" finished-at="2022-10-29T11:52:36Z" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- search.google.api.Test_Google_Search -->
+    </test> <!-- API Test Suite -->
+  </suite> <!-- Google Test Suite -->
+</testng-results>

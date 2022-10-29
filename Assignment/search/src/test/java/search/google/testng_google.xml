@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Google Test Suite" verbose="2" >
+
+	<test name="UI Test Suite">
+		<classes>
+			<class name="search.google.ui.Test_Google_Home_Page" />
+		</classes>
+	</test>
+	
+	
+	<test name="API Test Suite">
+		<classes>
+			<class name="search.google.api.Test_Google_Search" />
+		</classes>
+	</test>
+	
+</suite> <!-- Default suite -->
